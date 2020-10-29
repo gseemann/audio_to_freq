@@ -1,3 +1,17 @@
+#files to keep local
+**/audio_to_freq.ipynb
+**/Python Cookbook.ipynb
+**/female_osr.wav
+**/female.wav
+**/male.wav
+**/gabe_sample.wav
+**/mra_sample.wav
+**/report.pdf
+**/Using Deepgram.ipynb
+input_folder/*
+hmm-speech-recognition-0.1/*
+Chapter07/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
